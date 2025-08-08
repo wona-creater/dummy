@@ -11,7 +11,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no" />
     <link rel="shortcut icon" href="/backend/images/app-logo.png" height="10" width="20" type="image/x-icon" />
-    <title>The Real World University Platform - Reset Passowrd Form</title>
+    <title>Bitgovest | Best Staking Platform Worldwide -  Reset Passowrd Form </title>
+
     <meta name="description" content="Reset Password Form " />
     <meta name="author" content="harnishdesign.net" />
 

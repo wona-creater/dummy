@@ -11,8 +11,9 @@
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Vallfield | Best Staking Platform</title>
-    <link rel="shortcut icon" href="/backend/images/app-logo.png" height="10" width="20" type="image/x-icon" />
+    <title>Bitgovest | Best Staking Platform Worldwide</title>
+    <link rel="icon" type="image/png" href="/frontend/assets/images/logo/logo-12.png" height="10"
+        width="10" />
 
 
     <!-- CSS Assets -->

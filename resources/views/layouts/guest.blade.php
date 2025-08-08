@@ -30,8 +30,9 @@
     <link rel="stylesheet" href="/frontend/assets/css/responsive.css" />
 
     <!--=== Title & Favicon ===-->
-    <title>Bitgovest - Bitgo Investment</title>
-    <link rel="icon" type="image/png" href="/frontend/assets/images/favicon.png" />
+    <title>Bitgovest | Best Staking Platform Worldwide</title>
+    <link rel="icon" type="image/png" href="/frontend/assets/images/logo/logo-12.png" height="10"
+        width="10" />
 </head>
 
 <body data-bs-spy="scroll" data-bs-offset="70">

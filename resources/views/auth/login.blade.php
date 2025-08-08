@@ -171,7 +171,7 @@
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
 
     <link rel="shortcut icon" href="/backend/images/app-logo.png" height="10" width="20" type="image/x-icon" />
-    <title>Vallfield - Login Form</title>
+    <title>BitgoVest - Login Form</title>
 
     <!-- CSS Assets -->
     <link rel="stylesheet" href="/backend/css/app.css" />
