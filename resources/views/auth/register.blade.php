@@ -223,7 +223,7 @@
                     <img class="mx-auto size-16 lg:hidden" src="/backend/images/app-logo.svg" alt="logo" />
                     <div class="mt-4">
                         <h2 class="text-2xl font-semibold text-slate-600 dark:text-navy-100">
-                            Welcome To Lineone
+                            Welcome To BitgoVest
                         </h2>
                         <p class="text-slate-400 dark:text-navy-300">
                             Please sign up to continue
