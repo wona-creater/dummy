@@ -56,7 +56,7 @@
                                         321-032</a>
                                 </li>
                                 <li>
-                                    <a href="#"><i class="flaticon-paper-plane"></i>Support@bitgovest.com</a>
+                                    <a href="#"><i class="flaticon-paper-plane"></i>ask@bitgovest.com</a>
                                 </li>
                                 {{-- <li>
                                     <a
