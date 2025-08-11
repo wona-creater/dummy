@@ -52,8 +52,8 @@
                         <div class="exchange-header-left-content">
                             <ul>
                                 <li>
-                                    <a href="tel:+095552348765"><i class="flaticon-phone-call-1"></i>Call: (+17)247
-                                        321-032</a>
+                                    <a href="tel:+095552348765"><i class="flaticon-phone-call-1"></i>Call:
+                                        +1 (218)530 - 8015</a>
                                 </li>
                                 <li>
                                     <a href="#"><i class="flaticon-paper-plane"></i>ask@bitgovest.com</a>
